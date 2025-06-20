@@ -1,1 +1,2 @@
-# Burned-Area-XGBoost
+# Burned-Area-XGBoost  
+Burned-Area-XGBoost is a machine learning model that uses the XGBoost algorithm to predict forest fire burned area.The model leverages features such as weather conditions, season, and terrain to learn the relationship with fire severity.The results support early warning systems and more effective wildfire risk management.
